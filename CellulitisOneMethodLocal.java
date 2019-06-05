@@ -1,4 +1,4 @@
-4import java.util.Scanner;
+import java.util.Scanner;
 
 class CellulitisOneMethodLocal {
   Scanner sc = new Scanner( System.in );
